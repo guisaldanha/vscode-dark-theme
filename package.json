@@ -1,11 +1,23 @@
 {
     "name": "guisaldanha-dark",
-    "displayName": "guisaldanha-dark",
+    "displayName": "GuiSaldanha Dark",
     "description": "Tema dark criado por Guilherme Saldanha",
-    "version": "0.0.1",
+    "keywords": [
+        "tema",
+        "theme",
+        "dark",
+        "guisaldanha"
+    ],
+    "publisher": "guisaldanha",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.63.0"
     },
+    "galleryBanner": {
+        "color": "#777777",
+        "theme": "dark"
+    },
+    "license": "MIT",
     "categories": [
         "Themes"
     ],
@@ -13,9 +25,18 @@
         "themes": [
             {
                 "label": "GuiSaldanha Dark",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/GuiSaldanha Dark-color-theme.json"
             }
         ]
+    },
+    "homepage": "https://github.com/guisaldanha/vscode-dark-theme/blob/main/README.md",
+    "bugs": {
+        "url": "https://github.com/guisaldanha/vscode-dark-theme/issues",
+        "email": "guisaldanha@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/guisaldanha/vscode-dark-theme.git"
     }
 }
