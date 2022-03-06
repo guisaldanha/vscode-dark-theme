@@ -1,9 +1,3 @@
 # Tema GuiSaldanha Dark
 
-Esse é um tema baseado no One Monokai. A direferença é que adicionei ou alterei cores
-
-## Extensões abrangidas
-
-Este tema tem cores para as liguagens PHP, HTML, JavaScript, CSS, arquivos MD, JSON, SQL, INI, M3U, Configurações do Apache (apacheconf) e Twig
-
-**Divirta-se!**
+Tema Dark muito bonito que deixa praticamente qualquer código colorido, todas as linguagens de programação são aceitas, além de arquivos de configuração como .htaccess, .ini.

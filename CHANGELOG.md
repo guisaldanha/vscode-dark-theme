@@ -1,9 +1,14 @@
 # Change Log
 
-All notable changes to the "guisaldanha-dark" extension will be documented in this file.
+Todas as mudanças significativas neste projeto serão documentadas neste arquivo.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.1.0] 2022-03-06
 
-## [Unreleased]
+### Alterado
 
-- Initial release
+- Adicionadas cores para diversos tipos de linguagem de programação, além do arquivos MD, .ini, .htaccess, json, entre outros
+- Corrigidas as cores do vscode
+
+## [1.0.0] 2022-03-05
+
+Lançamento do tema
