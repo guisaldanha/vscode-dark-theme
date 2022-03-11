@@ -2,6 +2,16 @@
 
 Todas as mudanças significativas neste projeto serão documentadas neste arquivo.
 
+## [1.1.1] 2022-03-06
+
+### Corrigido
+
+- Agora os códigos oferecidos pelo GitHub Copilot ficam visíveis
+
+### Modificado
+
+- Pequenas alterações nas cores do VSCode, mas as cores dos códigos permanecem as mesmas
+
 ## [1.1.0] 2022-03-06
 
 ### Adicionado
