@@ -2,6 +2,12 @@
 
 Todas as mudanças significativas neste projeto serão documentadas neste arquivo.
 
+## [1.1.3] 2022-03-12
+
+### Corrigido
+
+- Corrigidas cores do find ao usar expressões regulares
+
 ## [1.1.2] 2022-03-12
 
 ### Corrigido
