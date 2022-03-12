@@ -2,6 +2,16 @@
 
 Todas as mudanças significativas neste projeto serão documentadas neste arquivo.
 
+## [1.1.2] 2022-03-12
+
+### Corrigido
+
+- Corrigidas algumas cores que dificultavam a leitura
+
+### Alterado
+
+- Alteradas algumas cores do minimapa
+
 ## [1.1.1] 2022-03-06
 
 ### Corrigido
