@@ -454,9 +454,6 @@
         "editorWidget.border": "#707a84",
         "pickerGroup.border": "#3f3f46",
         "pickerGroup.foreground": "#3794ff",
-        "debugToolBar.border": "#cccccc",
-        "debugToolBar.background": "#cccccc",
-
         "debugToolBar.background": "#333333",
         "debugToolBar.border": "#474747",
         "toolbar.hoverBackground": "#707a84",
