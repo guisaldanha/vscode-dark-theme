@@ -2,6 +2,13 @@
 
 Todas as mudanças significativas neste projeto serão documentadas neste arquivo.
 
+## [1.1.4] 2022-03-12
+
+### Alterado
+
+- Pequenas alterações nas cores
+- Alterada cor do background do terminal
+
 ## [1.1.3] 2022-03-12
 
 ### Corrigido
