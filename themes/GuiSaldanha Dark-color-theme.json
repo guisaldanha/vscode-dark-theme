@@ -343,7 +343,7 @@
         "inputValidation.infoBackground": "#265569",
         "inputValidation.warningBackground":"#585804",
         "textLink.foreground": "#89ddff",
-		"textLink.activeForeground": "#FFF",
+		"textLink.activeForeground": "#FFFFFF",
         "editor.background": "#282c34",
         "editor.foreground": "#ADBAC7",
         "editorLineNumber.foreground": "#858585",
@@ -546,6 +546,14 @@
         "quickInput.foreground": "#939da5",
         "quickInputList.focusBackground": "#232a2f",
         "quickInputList.focusForeground": "#d4dce4",
-
+        "descriptionForeground": "#808080",
+        "extensionButton.background": "#0b629d",
+        "editorGhostText.background": "#ffffff05",
+        "keybindingLabel.background": "#212121",
+        "keybindingLabel.foreground": "#c6c6c6",
+        "keybindingLabel.border": "#3c3c3c",
+        "keybindingLabel.bottomBorder": "#3c3c3c",
+        "keybindingTable.headerBackground": "#4a4a4a",
+        "keybindingTable.rowsBackground": "#373a40",
     }
 }
