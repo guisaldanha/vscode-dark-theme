@@ -1,8 +1,8 @@
 # GuiSaldanha Dark
 
-[![Versão no Marketplace](https://img.shields.io/visual-studio-marketplace/v/guisaldanha.guisaldanha-dark?style=flat-square&label=Marketplace&color=528bff)](https://marketplace.visualstudio.com/items?itemName=guisaldanha.guisaldanha-dark)
-[![Instalações](https://img.shields.io/visual-studio-marketplace/i/guisaldanha.guisaldanha-dark?style=flat-square&color=528bff)](https://marketplace.visualstudio.com/items?itemName=guisaldanha.guisaldanha-dark)
-[![Avaliação](https://img.shields.io/visual-studio-marketplace/r/guisaldanha.guisaldanha-dark?style=flat-square&color=528bff)](https://marketplace.visualstudio.com/items?itemName=guisaldanha.guisaldanha-dark&ssr=false#review-details)
+[![Versão no Marketplace](https://vsmarketplacebadges.dev/version-short/guisaldanha.guisaldanha-dark.svg)](https://marketplace.visualstudio.com/items?itemName=guisaldanha.guisaldanha-dark)
+[![Instalações](https://vsmarketplacebadges.dev/installs-short/guisaldanha.guisaldanha-dark.svg)](https://marketplace.visualstudio.com/items?itemName=guisaldanha.guisaldanha-dark)
+[![Avaliação](https://vsmarketplacebadges.dev/rating-short/guisaldanha.guisaldanha-dark.svg)](https://marketplace.visualstudio.com/items?itemName=guisaldanha.guisaldanha-dark&ssr=false#review-details)
 [![Licença](https://img.shields.io/github/license/guisaldanha/vscode-dark-theme?style=flat-square&color=528bff)](LICENSE)
 
 Tema dark para VS Code que deixa praticamente qualquer código colorido e legível — todas as linguagens de programação comuns são cobertas, além de arquivos de configuração como `.htaccess` e `.ini`.
