@@ -1,4 +1,4 @@
-node_modules
+/.desenvolvimento
 *.vsix
-Desenvolvimento.txt
-teste.py
+**/test**
+CLAUDE.md
