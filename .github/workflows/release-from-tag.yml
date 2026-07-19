@@ -1,0 +1,26 @@
+on:
+  push:
+    tags:
+      - '*'
+
+name: Criar versão a partir de tags
+
+jobs:
+  build:
+    name: Busca tags e cria versão
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verificando tags
+        uses: actions/checkout@master
+      - name: Criando versão
+        id: create_release
+        uses: actions/create-release@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Este token é fornecido por Actions, você não precisa criar seu próprio token
+        with:
+          tag_name: ${{ github.ref }} # Obtém a tag a partir do nome da branch
+          release_name: ${{ github.ref }}
+          body: |
+            Para ver as mudanças nesta versão, consulte o arquivo CHANGELOG.md.
+          draft: false
+          prerelease: false
