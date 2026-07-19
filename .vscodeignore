@@ -2,7 +2,6 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
-Desenvolvimento.txt
 .env
-teste.py
 .desenvolvimento/
+CLAUDE.md

@@ -9,12 +9,13 @@
         "guisaldanha"
     ],
     "publisher": "guisaldanha",
-    "version": "1.1.8",
+    "version": "1.2.0",
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.63.0"
     },
     "galleryBanner": {
-        "color": "#777777",
+        "color": "#282c34",
         "theme": "dark"
     },
     "license": "MIT",
@@ -26,7 +27,7 @@
             {
                 "label": "GuiSaldanha Dark",
                 "uiTheme": "vs",
-                "path": "./themes/GuiSaldanha Dark-color-theme.json"
+                "path": "./themes/guisaldanha-dark-color-theme.json"
             }
         ]
     },
